@@ -1,0 +1,1 @@
+# 2024-Election-Result-Analysis--Ms-Sql
